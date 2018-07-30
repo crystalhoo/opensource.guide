@@ -1,0 +1,31 @@
+tra-ch:
+  locale_name: 繁體中文
+  nav:
+    about: 關於
+    contribute: 貢獻
+  index:
+    lead: 開放源代碼軟件就是由你這樣的人所打造，這裡只是為了節省你的學習時間而設，從這裡開啟你的開源項目之旅吧！
+    opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+  article:
+    table_of_contents: 目錄
+    back_to_all_guides: Back to all guides
+    related_guides: Related Guides
+  footer:
+    contribute:
+      heading: 貢獻
+      description: 對項目有想提出的建議嗎？本站內容遵循開放源代碼寫作，請幫助我們繼續完善！
+      button: 貢獻
+    subscribe:
+      heading: 訂閱更新
+      description: 即時了解GitHub上最新的開源技巧和資源！
+      label: 電子郵箱地址
+      button: 提交
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] with [love] by [github] and [friends]"
+      # Label for code octicon
+      code_label: 代碼
+      # Label for love octicon
+      love_label: 愛心
+      # Label for the contributors link
+      friends_label: friends
